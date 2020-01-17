@@ -1,4 +1,5 @@
-"mutasi_dinas_baru": [
+{
+	"mutasi_dinas_baru": [
     { "id": "1",
 		"nama_pegawai": "Desaire Lubin",
 		"j_jabatan_asal": "Fungsional II",
@@ -26,4 +27,5 @@
 		"unit_asal": "Unit Induk Wilayah Sulawesi Selatan,Sulawesi Tenggara Dan Sulawesi Barat",
 		"unit_tujuan": "Kantor Pusat",
 		"status": "Menunggu APV" }
-  ],
+  ]
+}
