@@ -1,7 +1,7 @@
 {
 	"jabatankosong": [
 		{
-			"id": 1,
+			"id": "1",
 			"jenjang": "Supervisori Atas",
 			"posisi": "Analyst Hubungan Industrial Dan Pengawasan Tenaga Kerja (PLT Assitens)",
 			"grade": "SYS04",
@@ -9,7 +9,7 @@
 			"tanggal_kosong": "2019/09/31"
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"jenjang": "Manajemen Tengah",
 			"posisi": "Senior Engineer I Keselamatan, Kesehatan Kerja (K3) Dan Keamanan",
 			"grade": "SYS04",
@@ -17,7 +17,7 @@
 			"tanggal_kosong": "2020/01/01"
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"jenjang": "Managemen Dasar",
 			"posisi": "Manager Keuangan",
 			"grade": "SYS04",
@@ -25,7 +25,7 @@
 			"tanggal_kosong": "2019/03/13"
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"jenjang": "Supervisori Dasar",
 			"posisi": "Super Visor Logistik",
 			"grade": "SPE01",
@@ -33,7 +33,7 @@
 			"tanggal_kosong": "2019/05/14"
 		},
 		{
-			"id": 5,
+			"id": "5",
 			"jenjang": "Managemen Dasar",
 			"posisi": "Executive Vice President Pengamanan Dan Pemeliharaan Aset Properti",
 			"grade": "ADV01",
@@ -41,7 +41,7 @@
 			"tanggal_kosong": "2019/06/24"
 		},
 		{
-			"id": 6,
+			"id": "6",
 			"jenjang": "Supervisori Atas",
 			"posisi": "Analyst Hubungan Industrial Dan Pengawasan Tenaga Kerja (PLT Assitens)",
 			"grade": "SYS04",
