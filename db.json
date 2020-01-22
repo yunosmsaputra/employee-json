@@ -131,5 +131,37 @@
 			"tanggal_pengajuan": "2019-09-31",
 			"status": "Disetujui"
 		}
+	],
+	"catatan_aktifitas": [
+		{
+			"id": "1",
+			"nipeg": "2103141021",
+			"nama_pegawai": "Ikhsan Okto Lidar G",
+			"waktu_aktifitas": "2020-01-01 20:00:00",
+			"jenis_aktifitas": "Mengedit",
+			"keterangan": "Mengedit data Mutasi APS dengan ID",
+			"mutasi_id": "1021021",
+			"profile_picture": "foto.png"
+		},
+		{
+			"id": "2",
+			"nipeg": "2103141021",
+			"nama_pegawai": "Ikhsan Okto Lidar G",
+			"waktu_aktifitas": "2020-01-01 20:00:00",
+			"jenis_aktifitas": "Mengedit",
+			"keterangan": "Mengedit data Mutasi APS dengan ID",
+			"mutasi_id": "1021021",
+			"profile_picture": "foto.png"
+		},
+		{
+			"id": "3",
+			"nipeg": "2103141021",
+			"nama_pegawai": "Ikhsan Okto Lidar G",
+			"waktu_aktifitas": "2020-01-01 20:00:00",
+			"jenis_aktifitas": "Mengedit",
+			"keterangan": "Mengedit data Mutasi APS dengan ID",
+			"mutasi_id": "1021021",
+			"profile_picture": "foto.png"
+		},
 	]
 }
