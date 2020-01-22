@@ -105,5 +105,28 @@
 			"unit_tujuan": "Kantor Pusat",
 			"status": "Selesai" 
 		}
+	],
+	"persetujuan": [
+		{
+			"id": "1",
+			"nama_pegawai": "Ikhsan Okto Lidar Ginting",
+			"surat_persetujuan_asal": "0443/SDM.00.03/UIDBANTEN/2019-R",
+			"surat_persetujuan_tujuan": "0443/SDM.00.03/UIDBANTEN/2019-R",
+			"tanggal_pengajuan": "2019-09-31"
+		},
+		{
+			"id": "2",
+			"nama_pegawai": "Gloria Mckenniey",
+			"surat_persetujuan_asal": "0443/SDM.00.03/UIDBANTEN/2019-R",
+			"surat_persetujuan_tujuan": "0443/SDM.00.03/UIDBANTEN/2019-R",
+			"tanggal_pengajuan": "2019-09-31"
+		},
+		{
+			"id": "3",
+			"nama_pegawai": "Danniel Williamson",
+			"surat_persetujuan_asal": "0443/SDM.00.03/UIDBANTEN/2019-R",
+			"surat_persetujuan_tujuan": "0443/SDM.00.03/UIDBANTEN/2019-R",
+			"tanggal_pengajuan": "2019-09-31"
+		}
 	]
 }
