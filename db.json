@@ -183,5 +183,67 @@
 			"mutasi_id": "1021021",
 			"profile_picture": "foto.png"
 		}
+	],
+	"menunggupersetujuan": [
+		{
+			"id": "1",
+			"nama_pegawai": "Benetta Spaduzza",
+			"j_jabatan_asal": "Fngsional II",
+			"j_jabatan_tujuan": "Fungsional III",
+			"posisi_asal": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja (PLT Assiten Manager)",
+			"posisi_tujuan": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja",
+			"unit_asal": "PT PLN (Persero) Wilayah Sumatera Selatan, Jambi dan Bengkulu",
+			"unit_tujuan": "PT PLN (Persero) Wilayah Bangka Belitung"
+		},
+		{
+			"id": "2",
+			"nama_pegawai": "Francklin Hawe",
+			"j_jabatan_asal": "Fngsional II",
+			"j_jabatan_tujuan": "Fungsional III",
+			"posisi_asal": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja (PLT Assiten Manager)",
+			"posisi_tujuan": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja",
+			"unit_asal": "PT PLN (Persero) Wilayah Sumatera Selatan, Jambi dan Bengkulu",
+			"unit_tujuan": "PT PLN (Persero) Wilayah Bangka Belitung"
+		},
+		{
+			"id": "3",
+			"nama_pegawai": "Sid Kenan",
+			"j_jabatan_asal": "Fngsional II",
+			"j_jabatan_tujuan": "Fungsional III",
+			"posisi_asal": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja (PLT Assiten Manager)",
+			"posisi_tujuan": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja",
+			"unit_asal": "PT PLN (Persero) Wilayah Sumatera Selatan, Jambi dan Bengkulu",
+			"unit_tujuan": "PT PLN (Persero) Wilayah Bangka Belitung"
+		},
+		{
+			"id": "4",
+			"nama_pegawai": "Quill Cowcha",
+			"j_jabatan_asal": "Fngsional II",
+			"j_jabatan_tujuan": "Fungsional III",
+			"posisi_asal": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja (PLT Assiten Manager)",
+			"posisi_tujuan": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja",
+			"unit_asal": "PT PLN (Persero) Wilayah Sumatera Selatan, Jambi dan Bengkulu",
+			"unit_tujuan": "PT PLN (Persero) Wilayah Bangka Belitung"
+		},
+		{
+			"id": "5",
+			"nama_pegawai": "Orelle Tunny",
+			"j_jabatan_asal": "Fngsional II",
+			"j_jabatan_tujuan": "Fungsional III",
+			"posisi_asal": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja (PLT Assiten Manager)",
+			"posisi_tujuan": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja",
+			"unit_asal": "PT PLN (Persero) Wilayah Sumatera Selatan, Jambi dan Bengkulu",
+			"unit_tujuan": "PT PLN (Persero) Wilayah Bangka Belitung"
+		},
+		{
+			"id": "6",
+			"nama_pegawai": "Lois Hutley",
+			"j_jabatan_asal": "Fngsional II",
+			"j_jabatan_tujuan": "Fungsional III",
+			"posisi_asal": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja (PLT Assiten Manager)",
+			"posisi_tujuan": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja",
+			"unit_asal": "PT PLN (Persero) Wilayah Sumatera Selatan, Jambi dan Bengkulu",
+			"unit_tujuan": "PT PLN (Persero) Wilayah Bangka Belitung"
+		}
 	]
 }
