@@ -59,6 +59,7 @@
 			"posisi_tujuan": "Analyst 4 Hubungan Industrial Dan Pengawasan Tenaga Kerja (PLT Assisten)",
 			"unit_asal": "Unit Induk Wilayah Sulawesi Selatan,Sulawesi Tenggara Dan Sulawesi Barat",
 			"unit_tujuan": "Kantor Pusat",
+			"status_id": "1",
 			"status": "Menunggu APV" 
 		},
 		{ 
@@ -70,6 +71,7 @@
 			"posisi_tujuan": "Analyst 2 Hubungan Industrial Dan Pengawasan Tenaga Kerja (PLT Assisten)",
 			"unit_asal": "Unit Induk 4 Wilayah Sulawesi Selatan,Sulawesi Tenggara Dan Sulawesi Barat",
 			"unit_tujuan": "Kantor Pusat 1",
+			"status_id": "2",
 			"status": "Pemeriksaan" 
 		},
 		{ 
@@ -81,6 +83,7 @@
 			"posisi_tujuan": "Analyst 3 Hubungan Industrial Dan Pengawasan Tenaga Kerja (PLT Assisten)",
 			"unit_asal": "Unit Induk 3 Wilayah Sulawesi Selatan,Sulawesi Tenggara Dan Sulawesi Barat",
 			"unit_tujuan": "Kantor Pusat 7",
+			"status_id": "3",
 			"status": "Ditolak" 
 		},
 		{ 
@@ -92,6 +95,7 @@
 			"posisi_tujuan": "Analyst 8 Hubungan Industrial Dan Pengawasan Tenaga Kerja (PLT Assisten)",
 			"unit_asal": "Unit Induk 6 Wilayah Sulawesi Selatan,Sulawesi Tenggara Dan Sulawesi Barat",
 			"unit_tujuan": "Kantor Pusat 1",
+			"status_id": "4",
 			"status": "Pembuatan SK" 
 		},
 		{ 
@@ -103,6 +107,7 @@
 			"posisi_tujuan": "Analyst 4 Hubungan Industrial Dan Pengawasan Tenaga Kerja (PLT Assisten)",
 			"unit_asal": "Unit Induk 4 Wilayah Sulawesi Selatan,Sulawesi Tenggara Dan Sulawesi Barat",
 			"unit_tujuan": "Kantor Pusat 2",
+			"status_id": "5",
 			"status": "Selesai" 
 		}
 	],
