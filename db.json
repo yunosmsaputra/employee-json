@@ -245,22 +245,5 @@
 			"unit_asal": "PT PLN (Persero) Wilayah Sumatera Selatan, Jambi dan Bengkulu",
 			"unit_tujuan": "PT PLN (Persero) Wilayah Bangka Belitung"
 		}
-	],
-	"getdetailpersetujuan": [
-		{
-			"id": "1",
-			"mutasi_id": "1021021",
-			"nama_pegawai": "Audrey Robertson",
-			"nipeg": "7192006CP",
-			"detail": {
-				"informasi_asal": {
-					"jenjang": "Fungsional V",
-					"grade": "SPE02",
-					
-					"subunit": "Direktorat Keuangan",
-					"unit": "PT PLN (Persero) Kantor Pusat"
-				}
-			}
-		}
 	]
 }
