@@ -1,5 +1,6 @@
 {
-	"jabatankosong": [
+	"jabatankosong": {
+	"data" : [
 		{
 			"id": "1",
 			"jenjang": "Supervisori Atas",
@@ -48,7 +49,8 @@
 			"unit": "Unit Induk Wilayah Sulawesi Selatan,Sulawesi Tenggara Dan Sulawesi Barat",
 			"tanggal_kosong": "2019-09-31"
 		}
-	],
+	]
+},
 	"mutasi": [
 		{ 
 			"id": "1",
