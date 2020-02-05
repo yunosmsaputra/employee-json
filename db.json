@@ -1,6 +1,54 @@
 {
 	"jabatankosong": {
 		"data" : [
+			{
+				"id": "1",
+				"jenjang": "Supervisori Atas",
+				"posisi": "Analyst Hubungan Industrial Dan Pengawasan Tenaga Kerja (PLT Assitens)",
+				"grade": "SYS04",
+				"unit": "Unit Induk Wilayah Sulawesi Selatan,Sulawesi Tenggara Dan Sulawesi Barat",
+				"tanggal_kosong": "2019-09-31"
+			},
+			{
+				"id": "2",
+				"jenjang": "Manajemen Tengah",
+				"posisi": "Senior Engineer I Keselamatan, Kesehatan Kerja (K3) Dan Keamanan",
+				"grade": "SYS04",
+				"unit": "Kantor Pusat",
+				"tanggal_kosong": "2020-01-02"
+			},
+			{
+				"id": "3",
+				"jenjang": "Managemen Dasar",
+				"posisi": "Manager Keuangan",
+				"grade": "SYS04",
+				"unit": "Unit Induk Banten",
+				"tanggal_kosong": "2019-03-13"
+			},
+			{
+				"id": "4",
+				"jenjang": "Supervisori Dasar",
+				"posisi": "Super Visor Logistik",
+				"grade": "SPE01",
+				"unit": "Kantor Pusat",
+				"tanggal_kosong": "2019-05-14"
+			},
+			{
+				"id": "5",
+				"jenjang": "Managemen Dasar",
+				"posisi": "Executive Vice President Pengamanan Dan Pemeliharaan Aset Properti",
+				"grade": "ADV01",
+				"unit": "Kantor Pusat",
+				"tanggal_kosong": "2019-06-24"
+			},
+			{
+				"id": "6",
+				"jenjang": "Supervisori Atas",
+				"posisi": "Analyst Hubungan Industrial Dan Pengawasan Tenaga Kerja (PLT Assitens)",
+				"grade": "SYS04",
+				"unit": "Unit Induk Wilayah Sulawesi Selatan,Sulawesi Tenggara Dan Sulawesi Barat",
+				"tanggal_kosong": "2019-09-31"
+			}
 		]
 	},
 	"mutasi": [
