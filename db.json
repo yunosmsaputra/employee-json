@@ -158,49 +158,32 @@
 	"catatan_aktifitas": {
 		"data" :[
 			{
-				"nipeg": "2103141021",
-				"nama_pegawai": "Wyatan July",
-				"waktu_aktifitas": "2020-01-01 20:00:00",
-				"jenis_aktifitas": "Mengedit",
-				"keterangan": "Mengedit data Mutasi APS dengan ID",
-				"mutasi_id": "1021021",
-				"profile_picture": "foto.png"
-			},
-			{
-				"nipeg": "2103141021",
-				"nama_pegawai": "Abramo Chaikovski",
-				"waktu_aktifitas": "2019-12-31 20:00:00",
-				"jenis_aktifitas": "Buat SK",
-				"keterangan": "Membuat SK Mutasi APS dengan ID",
-				"mutasi_id": "1021021",
-				"profile_picture": "foto.png"
-			},
-			{
-				"nipeg": "2103141021",
-				"nama_pegawai": "Samara Grayham",
-				"waktu_aktifitas": "2019-12-01 20:00:00",
-				"jenis_aktifitas": "Menyetujui",
-				"keterangan": "Menyetujui data Mutasi APS dengan ID",
-				"mutasi_id": "1021021",
-				"profile_picture": "foto.png"
-			},
-			{
-				"nipeg": "2103141021",
-				"nama_pegawai": "Adelina Espasa",
-				"waktu_aktifitas": "2019-12-25 20:00:00",
-				"jenis_aktifitas": "Membuat",
-				"keterangan": "Membuat data Mutasi APS dengan ID",
-				"mutasi_id": "1021021",
-				"profile_picture": "foto.png"
-			},
-			{
-				"nipeg": "2103141021",
-				"nama_pegawai": "Margeaux Mileham",
-				"waktu_aktifitas": "2020-01-01 20:00:00",
-				"jenis_aktifitas": "Menolak",
-				"keterangan": "Menolak data Mutasi APS dengan ID",
-				"mutasi_id": "1021021",
-				"profile_picture": "foto.png"
+				"tgl": "1581140332",
+				"details": [
+					{
+						"employee_id": "1",
+						"employee_name": "asdad",
+						"employee_code": "889-38-3434",
+						"details": [
+							{
+								"date": "1581140332",
+								"activity": "Mengedit",
+								"mutasi_id": "123123123"
+							},
+							{
+								"date": "1581140332",
+								"activity": "Mengedit",
+								"mutasi_id": "123123123"
+							},
+							{
+								"date": "1581140332",
+								"activity": "Mengedit",
+								"mutasi_id": "123123123"
+							}
+						]
+					}
+				]
+
 			}
 		]
 	}
