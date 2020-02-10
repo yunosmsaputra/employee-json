@@ -155,32 +155,64 @@
 			}
 		]
 	},
-	"catatan_aktifitas": {
+	"notifikasi": {
 		"data" :[
 			{
-				"tgl": "1581140332",
+				"tgl": "1581305501",
 				"details": [
 					{
 						"employee_id": "1",
-						"employee_name": "asdad",
-						"employee_code": "889-38-3434",
-						"details": [
-							{
-								"date": "1581140332",
-								"activity": "Mengedit",
-								"mutasi_id": "123123123"
-							},
-							{
-								"date": "1581140332",
-								"activity": "Mengedit",
-								"mutasi_id": "123123123"
-							},
-							{
-								"date": "1581140332",
-								"activity": "Mengedit",
-								"mutasi_id": "123123123"
-							}
-						]
+						"employee_name": "Soham Cooper",
+						"employee_code": "210-31-4102",
+						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
+						"model_id": "190229919",
+						"model_type": "2",
+						"update_date": "1581305620"
+					},
+					{
+						"employee_id": "2",
+						"employee_name": "Brandie Murphy",
+						"employee_code": "210-31-5324",
+						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
+						"model_id": "190229920",
+						"model_type": "2",
+						"update_date": "1581305620"
+					},
+					{
+						"employee_id": "3",
+						"employee_name": "Lily Miles",
+						"employee_code": "210-31-4436",
+						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
+						"model_id": "190229922",
+						"model_type": "1",
+						"update_date": "1581305620"
+					},
+					{
+						"employee_id": "4",
+						"employee_name": "Tanya Howard",
+						"employee_code": "210-31-9857",
+						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
+						"model_id": "190229934",
+						"model_type": "1",
+						"update_date": "1581305620"
+					},
+					{
+						"employee_id": "5",
+						"employee_name": "Max Robertson",
+						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
+						"employee_code": "210-31-9983",
+						"model_id": "190229956",
+						"model_type": "2",
+						"update_date": "1581305620"
+					},
+					{
+						"employee_id": "6",
+						"employee_name": "Wade Richards",
+						"employee_code": "210-31-4589",
+						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
+						"model_id": "190229966",
+						"model_type": "2",
+						"update_date": "1581305620"
 					}
 				]
 
