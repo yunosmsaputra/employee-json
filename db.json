@@ -167,6 +167,7 @@
 						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
 						"model_id": "190229919",
 						"model_type": "2",
+						"is_read": false,
 						"update_date": 1580578844811
 					},
 					{
@@ -176,6 +177,7 @@
 						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
 						"model_id": "190229920",
 						"model_type": "2",
+						"is_read": false,
 						"update_date": 1580578844811
 					},
 					{
@@ -185,6 +187,7 @@
 						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
 						"model_id": "190229922",
 						"model_type": "1",
+						"is_read": true,
 						"update_date": 1580578844811
 					},
 					{
@@ -194,6 +197,7 @@
 						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
 						"model_id": "190229934",
 						"model_type": "1",
+						"is_read": true,
 						"update_date": 1580578844811
 					},
 					{
@@ -203,6 +207,7 @@
 						"employee_code": "210-31-9983",
 						"model_id": "190229956",
 						"model_type": "2",
+						"is_read": false,
 						"update_date": 1580578844811
 					},
 					{
@@ -212,6 +217,7 @@
 						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
 						"model_id": "190229966",
 						"model_type": "2",
+						"is_read": true,
 						"update_date": 1580578844811
 					}
 				]
