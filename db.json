@@ -158,7 +158,7 @@
 	"notifikasi": {
 		"data" :[
 			{
-				"tgl": "1580578844811",
+				"tgl": 1580578844811,
 				"details": [
 					{
 						"employee_id": "1",
@@ -167,7 +167,7 @@
 						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
 						"model_id": "190229919",
 						"model_type": "2",
-						"update_date": "1580578844811"
+						"update_date": 1580578844811
 					},
 					{
 						"employee_id": "2",
@@ -176,7 +176,7 @@
 						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
 						"model_id": "190229920",
 						"model_type": "2",
-						"update_date": "1580578844811"
+						"update_date": 1580578844811
 					},
 					{
 						"employee_id": "3",
@@ -185,7 +185,7 @@
 						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
 						"model_id": "190229922",
 						"model_type": "1",
-						"update_date": "1580578844811"
+						"update_date": 1580578844811
 					},
 					{
 						"employee_id": "4",
@@ -194,7 +194,7 @@
 						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
 						"model_id": "190229934",
 						"model_type": "1",
-						"update_date": "1580578844811"
+						"update_date": 1580578844811
 					},
 					{
 						"employee_id": "5",
@@ -203,7 +203,7 @@
 						"employee_code": "210-31-9983",
 						"model_id": "190229956",
 						"model_type": "2",
-						"update_date": "1580578844811"
+						"update_date": 1580578844811
 					},
 					{
 						"employee_id": "6",
@@ -212,7 +212,7 @@
 						"employee_image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
 						"model_id": "190229966",
 						"model_type": "2",
-						"update_date": "1580578844811"
+						"update_date": 1580578844811
 					}
 				]
 
